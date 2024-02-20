@@ -1,0 +1,33 @@
+h1,h2,form{
+    color: rgb(210, 62, 87);
+    margin: auto;
+    border: 5px solid rgb(207, 122, 150);
+}
+img{
+    border: 5px pink solid;
+    border-radius: 30%;
+    width: 300px;
+    height: 200px;
+}
+table, th,td {
+    width: 200px;
+    border-radius: 10%;
+    margin: auto;
+    border: pink 5px solid;
+}
+a{
+    border-radius: 10px;
+    margin: auto;
+    border: pink 5px solid;
+}
+video{
+    border: 5px purple solid;
+    border-radius: 10%;
+    width: 300px;
+    height: 200px;
+
+}
+p{
+    border: 10%;
+    color: #371488;
+}
